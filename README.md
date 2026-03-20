@@ -150,6 +150,16 @@ jupyter notebook
 
 ---
 
+## Run Webapp
+
+```bash
+uv run streamlit run src/app.py
+```
+
+link: http://localhost:8501
+
+---
+
 ## Docker Model Runner Notes
 
 For the local model notebook (`4.0_Docker_Model_Runner.ipynb`) to work, ensure:
